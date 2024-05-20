@@ -14,10 +14,10 @@ Este programa resta tres enteros utilizando registros de 16 bits y almacena el r
 Este programa multiplica dos números enteros utilizando registros de 8 bits y almacena el resultado en la memoria.
 
 
-## Ejercicio 3: División de Dos Enteros (Exacta)
+## Ejercicio 3: División de Dos Enteros
 
 ### Descripción
-Este programa divide dos números enteros utilizando registros de 32 bits y almacena el cociente en la memoria. Este ejemplo asume una división exacta sin resto.
+Este programa divide dos números enteros utilizando registros de 32 bits y almacena el cociente en la memoria. Solo es una division exacta sin residuo.
 
 
 
